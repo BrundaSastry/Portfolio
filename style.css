@@ -124,7 +124,7 @@ nav ul li a:hover::after{
 .container-2{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     flex-wrap: wrap;
     color: white;
     /* padding-left: 150px;
