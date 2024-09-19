@@ -193,7 +193,7 @@ p span{
     align-items: center;
     justify-content: center;
     background: #1A1A1A;
-
+    /* border-radius: 20px; */
 }
 
 /* EDUCATION */
@@ -242,13 +242,29 @@ h5{
 
 .left{
     width: 30%;
+    height: auto;
+    background-color: #1A1A1A;
+    border-radius: 20px;
 }
 .contact-left{
     display: flex;
     align-items: center;
+    justify-content: center;
+}
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.link-git{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 .container-contact{
     display: flex;
+    justify-content: space-evenly;
 }
 .right{
     width: 70%;
