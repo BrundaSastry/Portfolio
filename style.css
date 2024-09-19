@@ -127,8 +127,8 @@ nav ul li a:hover::after{
     justify-content: space-between;
     flex-wrap: wrap;
     color: white;
-    padding-left: 150px;
-    padding-right: 150px;
+    /* padding-left: 150px;
+    padding-right: 150px; */
 }
 #my-skills{
     text-align: center;
