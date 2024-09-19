@@ -306,9 +306,11 @@ textarea:focus {
     /* Header */
     #header {
         height: auto;
+        padding-top: 80px;
     }
     .header-text {
-        margin-top: 10%;
+        /* margin-top: 10%; */
+        margin-top: 100px;
         font-size: 24px;
     }
     .header-text h1 {
@@ -317,7 +319,9 @@ textarea:focus {
 
     /* Navbar */
     .navi {
-        padding: 10px 50px;
+        /* padding: 10px 50px; */
+        padding: 10px 20px;
+
     }
     nav ul {
         padding: 0;
