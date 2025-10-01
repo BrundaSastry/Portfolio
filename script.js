@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     const textArray = [
-      "I'm a Cyber Security Analyst"
+      "I'm a SOC Analyst"
     ];
     let index = 0;
     const spanElement = document.getElementById("typedText");
